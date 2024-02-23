@@ -1,0 +1,1 @@
+Escriba un programa en C o en C++ que lea un archivo de texto y cuente las veces que se repite cada caractér 
